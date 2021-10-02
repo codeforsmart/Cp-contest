@@ -1,0 +1,14 @@
+1
+2
+2
+0
+0
+END
+2
+0
+1
+rue-de-londres 1
+1
+2
+rue-d-amsterdam 1
+rue-d-athenes 1
